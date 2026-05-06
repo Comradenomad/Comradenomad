@@ -10,6 +10,6 @@ Currently in route to complete the AWS and Google Cybersecurity Certificates.
 ![](https://nirzak-streak-stats.vercel.app/?user=Comradenomad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Comradenomad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/Comradenomad/Comradenomad/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Comradenomad/Comradenomad/raw/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
